@@ -1,4 +1,4 @@
-week 1;*
+*week 1;*
 **Two Sum**\
 **Easy**
 
@@ -9,7 +9,7 @@ week 1;*
 *You can return the answer in any order.*
 
 
-week 3;*
+*week 3;*
 **ZigZag Conversion**\
 **Medium**
 
