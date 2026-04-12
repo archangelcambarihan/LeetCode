@@ -23,3 +23,11 @@
 *Write the code that will take a string and make this conversion given a number of rows:*
 
 *string convert(string s, int numRows);*
+
+*week 4;*
+**3Sum**\
+**Medium**
+
+*Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+Notice that the solution set must not contain duplicate triplets.;*
